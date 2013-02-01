@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebApplication3">
+</Property><Property Name="Solution File" Value="D:\学习\test\WebApplication3 - copy\WebApplication3.sln">
+</Property><Property Name="Date" Value="2012年6月30日">
+</Property><Property Name="Time" Value="11:13">
+</Property></Properties><Event ErrorLevel="0" Project="WebApplication3" Source="WebApplication3\WebApplication3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebApplication3" Source="WebApplication3\WebApplication3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataModel" Source="DataModel\DataModel.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataModel" Source="DataModel\DataModel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Common" Source="Common\Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utility" Source="Utility\Utility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Utility" Source="Utility\Utility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestProject1" Source="TestProject1\TestProject1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestProject1" Source="TestProject1\TestProject1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WebApplication3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WebApplication3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebApplication3" Source="WebApplication3\WebApplication3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataModel" Source="DataModel\DataModel.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Utility" Source="Utility\Utility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="3" Project="" Source="LocalTestRun.testrunconfig" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocalTestRun.testrunconfig" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="TestProject1" Source="TestProject1\WebTest1.webtest" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestProject1" Source="TestProject1\WebTest1.webtest" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="WebApplication3.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WebApplication3.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="0" Project="TestProject1" Source="TestProject1\TestProject1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
