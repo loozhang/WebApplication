@@ -132,7 +132,7 @@
         <asp:Label ID="lblArea" runat="server" Text="所在地"></asp:Label>
 <%--            <asp:ScriptManager ID="ScriptManager1" runat="server">
             </asp:ScriptManager>--%>
-      <cc2:SelectArea ID="SelectArea1" runat="server" IsAddSpace="false"/>
+      <cc1:SelectArea ID="SelectArea1" runat="server" IsAddSpace="false"/>
     
         <br />
         <asp:Label ID="lblEmail" runat="server" Text="电子邮箱"></asp:Label>

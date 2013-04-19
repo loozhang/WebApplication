@@ -280,7 +280,7 @@ namespace WebApplication3 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Utility.SelectArea SelectArea1;
+        protected global::Common.SelectArea SelectArea1;
         
         /// <summary>
         /// lblEmail control.
