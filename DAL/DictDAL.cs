@@ -14,7 +14,7 @@ using System.Data;
 using System.Data.Common;
 using Microsoft.Practices.EnterpriseLibrary.Data;
 using DataModel;
-using Common;
+using Utility;
 
 namespace DAL
 {

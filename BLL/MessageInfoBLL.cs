@@ -18,7 +18,7 @@
 using System;
 using DAL.MessageInfoDAL;
 using DataModel;
-using Common;
+using Utility;
 using DataModel;
 using OESSP.BLL.Common;
 using System.Collections;

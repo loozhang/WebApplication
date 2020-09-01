@@ -75,12 +75,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AspnetCachedOperation.cs" />
     <Compile Include="AttachmentUtility.cs" />
     <Compile Include="Attachment\AttachmentProvider.cs" />
     <Compile Include="Attachment\AttachmentProviderCollection.cs" />
     <Compile Include="Attachment\AttachmentProviderConfigurationSection.cs" />
     <Compile Include="Attachment\FtpAttachmentProvider.cs" />
+    <Compile Include="CacheHelper.cs" />
+    <Compile Include="CryptTools.cs" />
+    <Compile Include="DBConvert.cs" />
     <Compile Include="FTP\FtpClient.cs" />
+    <Compile Include="ICacheOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegularExpression\RegularExpressionHelper.cs" />
     <Compile Include="RegularExpression\RegularExpressionType.cs" />

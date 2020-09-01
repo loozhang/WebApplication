@@ -11,7 +11,7 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Xml.Linq;
 
-namespace WebApplication3
+namespace WebApplication
 {
     public partial class AutoCompleteTest : System.Web.UI.Page
     {

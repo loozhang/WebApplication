@@ -9,7 +9,6 @@ using Microsoft.Practices.EnterpriseLibrary.Data;
 using System.Data;
 using System.Data.Common;
 using System.Data.SqlClient;
-using Common;
 using DataModel;
 using BLL.UserInfoBLL;
 

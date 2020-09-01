@@ -5,7 +5,6 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Drawing;
-using Common;
 
 namespace WebApplication3
 {
@@ -94,7 +93,7 @@ namespace WebApplication3
                 Response.ClearContent(); //需要输出图象信息 要修改HTTP头
                 Response.ContentType = "image/Png";
                 Response.BinaryWrite(ms.ToArray());
-                PublicMethod.SafeResponseEnd(Response, Request.RawUrl);
+                //PublicMethod.SafeResponseEnd(Response, Request.RawUrl);
             }
             finally
             {

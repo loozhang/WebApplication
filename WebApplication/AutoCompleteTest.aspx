@@ -45,8 +45,8 @@ padding : 1px;
     <form id="form1" runat="server">
     <div>
     
-        <ajaxToolkit:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
-        </ajaxToolkit:ToolkitScriptManager>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
     </div>
     <asp:TextBox ID="TextBox1" runat="server" Width="250px" autocomplete="true"></asp:TextBox>
     <ajaxToolkit:AutoCompleteExtender ID="AutoCompleteExtender1"

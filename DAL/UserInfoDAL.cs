@@ -20,7 +20,6 @@ using System.Data;
 using System.Data.Common;
 using DataModel;
 using Microsoft.Practices.EnterpriseLibrary.Data;
-using Common;
 using Utility;
 
 namespace DAL.UserInfoDAL

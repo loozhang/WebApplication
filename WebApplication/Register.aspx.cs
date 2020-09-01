@@ -4,12 +4,12 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using Common;
 using Utility;
 using BLL.UserInfoBLL;
 using DataModel;
+using Common;
 
-namespace WebApplication3
+namespace WebApplication
 {
     public partial class Register : System.Web.UI.Page
     {

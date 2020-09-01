@@ -6,12 +6,15 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05F23E86-379D-44E6-81DD-92D9D0D42CA8}"
 	ProjectSection(SolutionItems) = preProject
 		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
-		WebApplication3.vsmdi = WebApplication3.vsmdi
+		WebApplication.vsmdi = WebApplication.vsmdi
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication3\WebApplication.csproj", "{D2D4B500-38D7-41BC-B532-85866D5F4D64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{D2D4B500-38D7-41BC-B532-85866D5F4D64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{05FFFB9C-98C2-4826-BA87-64B7B96F9174}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D8ED5213-3C8E-4C1A-A8CF-87370E384F4D} = {D8ED5213-3C8E-4C1A-A8CF-87370E384F4D}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D2292F0A-80DF-4F2A-8985-DCF8F0F92E10}"
 EndProject
@@ -65,7 +68,7 @@ Global
 		VisualSVNWorkingCopyRoot = .
 	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = WebApplication3.vsmdi
+		CategoryFile = WebApplication.vsmdi
 	EndGlobalSection
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True

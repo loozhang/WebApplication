@@ -4,7 +4,7 @@ using System.Web.Security;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Common;
+using Utility;
 using BLL.UserInfoBLL;
 
 class LoginUtil
